@@ -4,6 +4,6 @@
 // My Solution : 
 
 function poke(partyList){
-    return partyList.reverse()
+    console.log (partyList.reverse())
 }
-poke(['hey', 'why', 'so', 'serious')  //["serious", "so", "why", "hey"]
+poke(['hey', 'why', 'so', 'serious'])  //["serious", "so", "why", "hey"]
